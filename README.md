@@ -1,3 +1,4 @@
 # simple-scraper
 
-Simple web scraper application for example on how to implement similar applications
+Example of containerized, basic, web scraper.  
+Use this repository as Sample
